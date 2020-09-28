@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.button1 {
+  width: 100px;
+  height: 40px;
+  background-color: blue;
+  border-radius: 7px;
+}
+.button2 {
+  width: 100px;
+  height: 40px;
+  background-color: red;
+  border-radius: 7px;
+}

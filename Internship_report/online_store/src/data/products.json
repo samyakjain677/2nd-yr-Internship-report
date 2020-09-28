@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "I am Groot",
+      "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",
+      "keywords": ["stuffed", "plush", "groot", "guardians of the galaxy"],
+      "image": "1-groot.jpg",
+      "age": ["0", "+"],
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "name": "starwar here",
+      "description": "It contains some star wars related stuff have a look at me marvell fans",
+      "keywords": ["stuffed", "plush", "groot", "guardians of the galaxy"],
+      "image": "lego.jpg",
+      "age": ["0", "+"],
+      "price": 29.99
+    },
+    {
+      "id": 3,
+      "name": "I am minion",
+      "description": "I will make laugh you as much as possible buy me for this discounted price ",
+      "keywords": ["stuffed", "plush", "groot", "guardians of the galaxy"],
+      "image": "minion.jpg",
+      "age": ["0", "+"],
+      "price": 39.99
+    }
+  ]
+}
